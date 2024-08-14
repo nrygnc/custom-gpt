@@ -1,7 +1,7 @@
 🤖    Linke tıklayıp GPT yi deneyin. 
 
 
-[https://chatgpt.com/g/g-jPvIXaP4t-digital-twin-manager](https://chatgpt.com/g/g-Hb8i5qJLr-pydoc-whisperer)
+https://chatgpt.com/g/g-Hb8i5qJLr-pydoc-whisperer
 
 
 GPT
